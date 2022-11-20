@@ -5,6 +5,7 @@ int linearSearch(int n, int *arr, int value)
 {
     for (int i = 0; i < n; i++)
     {
+        // compare current element of array with value
         if (arr[i] == value)
         {
             return i;
