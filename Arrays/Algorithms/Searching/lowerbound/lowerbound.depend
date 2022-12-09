@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670514036 source:c:\users\dell\0mywork\projects\dsa\data-structure-and-algorithms\arrays\algorithms\searching\lowerbound\main.cpp
+	<iostream>
+	<vector>
+
